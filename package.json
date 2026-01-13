@@ -1,6 +1,6 @@
 {
-  "name": "env-safe",
-  "version": "1.0.0",
+  "name": "test-your-env",
+  "version": "1.0.3",
   "description": "Validate environment variables before app startup",
   "main": "src/index.js",
   "scripts": {
